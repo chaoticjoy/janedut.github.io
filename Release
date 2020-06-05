@@ -5,8 +5,8 @@ Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: More tweaks comming soon
+Description: More tweaks coming soon
 
 SHA256:
- 830b138129dd2c76a314696265055df184b901362b11e15a0cf2ff3975aed1c3 690 Packages.bz2
- bf1a40fc90d1322a5b102f90c3ea0bcf8a734705ccce3b76b03fd78fc196d532 684 Packages.xz
+ b5304d2031f7a7c3f0ea7beb92cbbe6bb9009269c3254a272eecf5bad8b8bc68 1006 Packages.bz2
+ fd32947eb8d90a3d1943ce63274f82e27e0cb27322cbdd2e5f6bf0379d8013e4 892 Packages.xz
