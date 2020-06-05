@@ -1,0 +1,12 @@
+Origin: AohuiLiu's Repo
+Label: AohuiLiu's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: More tweaks comming soon
+
+SHA256:
+ 830b138129dd2c76a314696265055df184b901362b11e15a0cf2ff3975aed1c3 690 Packages.bz2
+ bf1a40fc90d1322a5b102f90c3ea0bcf8a734705ccce3b76b03fd78fc196d532 684 Packages.xz
