@@ -1,11 +1,15 @@
 ### Features
-* feature 1 *TEST*  
-* feature 2  ~~TEST~~  
+* Customization for time format  
+* Customization for time network speed
+* Customization for time carrier
+* Font options for time, speed, carrier and percentage
+* Color options for time, speed and carrier
+* Support A12 & A13
 * **feature 3** This tweak is [open sourced](https://janedut.github.io).
 
 ### Notes
-* notes 1 *TEST*  
-* notes 2  ~~TEST~~  
-* **notes 3** This tweak is [open sourced](https://janedut.github.io). 
+* If you have any problems or cool idea, please contact me. 
 
-TEST
+### Special thanks
+* NoisyFlake
+* My lovely testers
