@@ -19,4 +19,4 @@
 ###Contact
 [Twitter](https://twitter.com/aohuiliu) | 
 [Github](https://github.com/janedut) |
-[Reddit](https://reddit.com/r/janedut)
+[Reddit](https://reddit.com/u/janedut)
